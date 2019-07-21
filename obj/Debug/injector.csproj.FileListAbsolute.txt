@@ -1,0 +1,11 @@
+C:\Users\mariusz\source\repos\injector\injector\obj\Debug\injector.csprojAssemblyReference.cache
+C:\Users\mariusz\source\repos\injector\injector\obj\Debug\injector.Properties.Resources.resources
+C:\Users\mariusz\source\repos\injector\injector\obj\Debug\injector.csproj.GenerateResource.cache
+C:\Users\mariusz\source\repos\injector\injector\obj\Debug\injector.csproj.CoreCompileInputs.cache
+C:\Users\mariusz\source\repos\injector\injector\bin\Debug\injector.exe.config
+C:\Users\mariusz\source\repos\injector\injector\bin\Debug\injector.exe
+C:\Users\mariusz\source\repos\injector\injector\bin\Debug\injector.pdb
+C:\Users\mariusz\source\repos\injector\injector\obj\Debug\injector.memepanel.resources
+C:\Users\mariusz\source\repos\injector\injector\obj\Debug\injector.exe
+C:\Users\mariusz\source\repos\injector\injector\obj\Debug\injector.pdb
+C:\Users\mariusz\source\repos\injector\injector\obj\Debug\injector.Form1.resources
